@@ -1,0 +1,4 @@
+# Default funding links for tensquaresoftware public repositories.
+# Repositories can override this file with their own .github/FUNDING.yml.
+
+github: [tensquaresoftware]
