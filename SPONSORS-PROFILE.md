@@ -1,3 +1,5 @@
+> Reference copy for the [GitHub Sponsors dashboard](https://github.com/sponsors/tensquaresoftware) — keep in sync with your live profile when you edit either side. This file is public (same as the rest of this repository).
+
 # GitHub Sponsors profile — copy-paste reference
 
 Edit at: **GitHub → Your sponsors → Profile → Profile details**
